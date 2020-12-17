@@ -35,7 +35,7 @@ processes = OrderedDict({
 combine_guis = {
     'terminals': ('termite', 'terminator', 'urxvt'),
     'chromes': ('chromium', 'chrome'),
-    'filemanger': ('nemo', 'thunar', 'dolphin', 'nautilus', 'pcmanfm'),
+    'filemanager': ('nemo', 'thunar', 'dolphin', 'nautilus', 'pcmanfm'),
     'remote-desktop': ('TeamViewer', ),
     'pdfviewer': ('evince', 'okular', 'zathura'),
     'image': ('gthumb', 'shotwell', 'deepin-image-vi'),
